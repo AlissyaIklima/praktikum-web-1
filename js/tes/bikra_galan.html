@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            width: 50%;
+            height: 50px;
+            font-size: 30px;
+        }
+        tr:hover {
+            background-color: gray;
+            font-size: 120%;
+            font-weight: bold;   
+        }
+        .klima{
+            background-color: rgb(229, 217, 217);
+        }
+        .ninim{
+            background-color: rgb(229, 217, 217);
+        }
+        .lilis{
+            background-color: rgb(229, 217, 217);
+        }
+        .imgku{
+            width: 200px;
+            height: 150px;
+        }
+    </style>
+</head>
+<body>
+    <center>
+        <h1>JavaScript Arithmetic</h1>
+        <table>
+            <tr class="klima">
+                <td>variable</td>
+                <td>Nilai</td>
+                <td rowspan="5px"><img class="imgku" src="https://www.techfor.id/wp-content/uploads/2019/12/html.png"/></td>
+            </tr>
+            <tr class="ninim">
+                <td>a</td>
+                <td id="a">5</td>
+            </tr>
+            <tr>
+                <td>b</td>
+                <td id="b">2</td>
+            </tr>
+            <tr class="lilis">
+                <td>c</td>
+                <td id="c">1</td>
+            </tr>
+            <tr>
+                <td>hasil</td>
+                <td id="hasil" onmouseover="tampilHasil()" onmouseout="hapusHasil()"></td>
+            </tr>
+        </table>
+        <br>
+        <button onclick="ganti()">Ubah Nilai</button>
+    </center>
+</body>
+<script>
+function hitung(a,b,c){
+    return a+b-c;
+}
+function tampilHasil(){
+    let a = parseInt(document.getElementById("a").innerHTML);
+    let b = parseInt(document.getElementById("b").innerHTML);
+    let c = parseInt(document.getElementById("c").innerHTML);
+    let hasil=hitung(a,b,c);
+    document.getElementById("hasil").innerHTML = hasil;
+}
+    function hapusHasil(){
+        document.getElementById("hasil"). innerHTML= "" ;
+    }
+    function ganti(){
+        let  aBaru = prompt("Masukan Nilai a",document.getElementById("a"). innerHTML);
+        document.getElementById("a"). innerHTML =aBaru;
+        let  bBaru = prompt("Masukan Nilai b",document.getElementById("b"). innerHTML);
+        document.getElementById("b"). innerHTML = bBaru;
+        let  cBaru = prompt("Masukan Nilai c",document.getElementById("c"). innerHTML);
+        document.getElementById("c"). innerHTML = cBaru;
+    }
+</script>
+</html>

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        tr{
+            transition: width 2s;
+        }
+        h1{
+            color: blue;
+            font-size: 60px;
+        }
+        table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+        width: 50%;
+        height: 50px;
+        font-size: 30px;
+        }
+        .lis{
+            background-color: blue;
+            color: white;
+        }
+        .klim{
+            background-color: aqua;
+        }
+        tr:hover {
+            background-color: rgb(106, 229, 106);
+            font-size: 120%;
+            transition: 300ms;
+            font-weight: bold;
+            
+        }
+    </style>
+</head>
+<body >
+    <center >
+        <h1>Daftar Mahasiswa</h1>
+    <table class="hover">
+        <tr class="lis">
+            <td>Nama</td>
+            <td>Program studi</td>
+            <td>kelas</td>
+        </tr>
+        <tr class="klim">
+            <td>jhon doe</td>
+            <td>Teknik Iformatika</td>
+            <td>A-01</td>
+        </tr>
+        <tr>
+            <td>jane smith</td>
+            <td>Sistem informasi</td>
+            <td>A-02</td>
+        </tr>
+        <tr class="klim">
+            <td>Alic jhonson</td>
+            <td>Teknik Komputer</td>
+            <td>A-03</td>
+        </tr>
+        <tr>
+            <td>Bob brown</td>
+            <td>Teknik Elektro</td>
+            <td>A-04</td>
+        </tr>
+        <tr class="klim">
+            <td>Emily</td>
+            <td>Manajemen informasi</td>
+            <td>A-05</td>
+        </tr>
+    </table>
+    </center>
+</body>
+</html>
