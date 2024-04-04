@@ -1,13 +1,7 @@
 Html adalah singkatan dari Hypertext Markup Language
 Html memiliki tag sebagian berikut :
-<p>...</p> untuk membuat paragraf
-<br> untuk baris baru
-<hr> memunculkan garis horizontal
-<b>...</b> membuat text bold
+![image](https://github.com/AlissyaIklima/praktikum-web-1/assets/165629623/96f24e2f-f3bf-4364-a9f0-8a3d9a6a2a71)
+
 tag untuk membuat judul
-<h1></h1>
-<h2></h2>
-<h3></h3>
-<h4></h4>
-<h5></h5>
-<h6></h6>
+![image](https://github.com/AlissyaIklima/praktikum-web-1/assets/165629623/11a3522f-6401-491d-a816-15814f84b00d)
+
