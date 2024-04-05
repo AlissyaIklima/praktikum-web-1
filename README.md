@@ -13,9 +13,24 @@ di tag h1 dan sampai yang paling kecil ada di tag h6, berikut adalah contoh outp
 
 
 Cara menambahkan gambar pada html dengan menggunakan tag img
+biasanya menggunakan tag img yang diikuti src. src sendiri itu menunujkan atau
+biasanya untuk penempatan link gambar yang berupa jpg, png.
+![image](https://github.com/AlissyaIklima/praktikum-web-1/assets/165629623/f32314b0-241b-4c6c-b584-e2785808251f)
 
 
 CSS atau singkatan dari Cascading Style Sheets. mrnghubungkan CSS dengan html biasanya dipanggil menggunakan class="" emanggilan ini terletak ada HTML dan akan dipanggil di css bisa menggunakan halaman baru ataupun bisa dipanggil langsung. memanggilnya terletak di bagian kepala HTML.
+
+CSS mengubah font color brtikut adalah contohnya : 
+![image](https://github.com/AlissyaIklima/praktikum-web-1/assets/165629623/46e90bdc-b2da-4619-8db1-b2d54c407c18)
+Berikut cara mengubah latar belakang menggunakan CSS :
+![image](https://github.com/AlissyaIklima/praktikum-web-1/assets/165629623/11ac5d24-d87f-4d8b-afb7-cdda4e0722e7)
+Berikut cara menampilkan tabel/border menggunakan css :
+pertama menggunakan tag HTML terlebih dahulu 
+![image](https://github.com/AlissyaIklima/praktikum-web-1/assets/165629623/02352445-840f-42f3-9ea7-71404dba6eca)
+Lalu disusul dengan tag CSS 
+![image](https://github.com/AlissyaIklima/praktikum-web-1/assets/165629623/1d1b4867-c8a7-49d7-9018-a633feb9a59f)
+Dan akan menghasilkan output seperti berikut :
+![image](https://github.com/AlissyaIklima/praktikum-web-1/assets/165629623/c6701517-091e-423b-a7b2-1105929b74ea)
 
 javascript
 berikut adalah cara mudah memanggil js dengan tag "id"
