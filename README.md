@@ -15,6 +15,8 @@ di tag h1 dan sampai yang paling kecil ada di tag h6, berikut adalah contoh outp
 Cara menambahkan gambar pada html dengan menggunakan tag img
 
 
+CSS atau singkatan dari Cascading Style Sheets. mrnghubungkan CSS dengan html biasanya dipanggil menggunakan class="" emanggilan ini terletak ada HTML dan akan dipanggil di css bisa menggunakan halaman baru ataupun bisa dipanggil langsung. memanggilnya terletak di bagian kepala HTML.
+
 javascript
 berikut adalah cara mudah memanggil js dengan tag "id"
 ![image](https://github.com/AlissyaIklima/praktikum-web-1/assets/165629623/fe891edb-438c-4712-87fc-d6de4f8f37b8)
