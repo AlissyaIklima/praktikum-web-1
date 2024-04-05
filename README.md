@@ -11,9 +11,12 @@ Cara menambahkan gambar pada html dengan menggunakan tag img
 
 
 javascript
+berikut adalah cara mudah memanggil js dengan tag "id"
+![image](https://github.com/AlissyaIklima/praktikum-web-1/assets/165629623/fe891edb-438c-4712-87fc-d6de4f8f37b8)
+
 ![image](https://github.com/AlissyaIklima/praktikum-web-1/assets/165629623/384dc3a1-bdab-4923-a8ab-9d67c3cd447a)
 
-penjumlahan
+penjumlahan dalam js menggunakan 
 ![image](https://github.com/AlissyaIklima/praktikum-web-1/assets/165629623/ca67442c-d9aa-47e6-8679-f30179d3e94f)
 
 menampilkan penjumlahan dengan alert
