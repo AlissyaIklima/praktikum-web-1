@@ -33,6 +33,7 @@ Dan akan menghasilkan output seperti berikut :
 ![image](https://github.com/AlissyaIklima/praktikum-web-1/assets/165629623/c6701517-091e-423b-a7b2-1105929b74ea)
 
 javascript
+JavaScript adalah bahasa pemrograman populer yang digunakan untuk membuat website interaktif dan dinamis.
 berikut adalah cara mudah memanggil js dengan tag "id"
 ![image](https://github.com/AlissyaIklima/praktikum-web-1/assets/165629623/fe891edb-438c-4712-87fc-d6de4f8f37b8)
 
