@@ -7,6 +7,11 @@ tag untuk membuat judul
 
 ![image](https://github.com/AlissyaIklima/praktikum-web-1/assets/165629623/11a3522f-6401-491d-a816-15814f84b00d)
 
+masing-masing tag memiliki ketebalan yang berbeda. tetapi yang paling tebal ada 
+di tag h1 dan sampai yang paling kecil ada di tag h6, berikut adalah contoh outputnya :
+![image](https://github.com/AlissyaIklima/praktikum-web-1/assets/165629623/459c6ec4-309d-48a3-b10c-07691c63c42f)
+
+
 Cara menambahkan gambar pada html dengan menggunakan tag img
 
 
